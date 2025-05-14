@@ -1,4 +1,4 @@
-#Wireframing
+# Wireframing
 Introduction
 Wireframing is a crucial early step in the design process that creates simplified, schematic representations of a digital interface. These low-fidelity layouts display the skeleton structure of a website or application before visual design and content are applied.
 Importance in the Design Process
