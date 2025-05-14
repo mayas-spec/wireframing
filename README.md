@@ -22,3 +22,23 @@ Mapping out user flows
 Organizing content hierarchy
 Placing interface elements strategically
 ## Remember that wireframes should prioritize clarity and functionality over visual appeal. They are meant to evolve as the design process progresses.
+# Key Elements of a Wireframe
+Layout Structure
+The layout structure defines how the page is organized and includes elements like headers, footers, sidebars, and content areas. It establishes the grid system and overall spatial arrangement.
+Example: In an e-commerce wireframe, the layout structure might include a header with logo and search bar, a left sidebar for filtering options, a main content area for product listings, and a footer with company information. This structure ensures that users can easily navigate the site and find products while maintaining consistent placement of important elements.
+## Navigation
+Navigation elements show how users will move through the site or application. This includes menus, buttons, links, and other interactive components that facilitate user journeys.
+Example: A news website wireframe might feature a primary navigation menu with categories like "Politics," "Sports," and "Entertainment," along with breadcrumb navigation to help users understand their current location. This navigation system enables users to efficiently find content they're interested in and maintain their orientation within the site hierarchy.
+## Content Placement
+Content placement indicates where text, images, videos, and other content will appear. It establishes hierarchy and relationships between different content elements without specifying the actual content.
+Example: In a blog post wireframe, content placement might show a large rectangle at the top for a featured image, followed by a headline, author information, publication date, and then placeholder blocks for the article body with indications of where images or pull quotes might appear. This arrangement helps stakeholders visualize how content will flow and how emphasis is distributed throughout the page.
+## Functionality
+Functionality elements illustrate interactive features and their behavior. This includes forms, search functions, filtering options, dropdown menus, and other interactive components.
+Example: A banking application wireframe might show a transfer money function with input fields for account numbers and amount, a dropdown for selecting transaction types, and buttons for confirming or canceling the transaction. This allows the team to plan and discuss how the function will work before committing to development.
+Getting Started with Wireframing
+## To begin wireframing, focus on:
+Understanding user needs and goals
+Determining key functionality
+Mapping out user flows
+Organizing content hierarchy
+Placing interface elements strategically
